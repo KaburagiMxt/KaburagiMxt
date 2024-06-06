@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaburagiMxt
+- 👋 Hi, I’m @Maximilian Lippmann
 - 👀 I’m interested in lerning game development
 - 🌱 I’m currently learning c,c++
 - 💞️ I’m looking to collaborate on ...
